@@ -1,0 +1,20 @@
+/* Navigation */
+body{
+    background-color: red;
+}
+#home{
+
+}
+/* Services Section */
+#services .box{
+    flex-direction: column;
+}
+#services{
+    position: sticky;
+    align-items: center;
+}
+/* client section */
+
+/* Contact Us section */
+
+/* footer */
